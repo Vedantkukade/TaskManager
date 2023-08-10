@@ -1,0 +1,65 @@
+.register{
+    background-color: antiquewhite;
+}
+
+.anchor{
+    text-decoration: none;
+    color:maroon;
+}
+
+.addform{
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+    /* box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px; */
+    padding: 20px;
+    border-radius: 4px;
+}
+
+.between{
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 48px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.filter{
+    padding: 10px;
+    background-color: lightpink;
+    color: white;
+}
+
+.filterx{
+    background-color: rosybrown;
+    padding: 10px;
+
+}
+
+.footer h5{
+    color: rgba(255, 255, 255, 0.644);
+}
+
+.footx li{
+    list-style-type: none;
+
+}
+
+.footx li a{
+    color: white;
+
+}
+
+.footx li :hover{
+   
+    /* text-decoration: underline; */
+    color: blue;
+}
+
+.footy p:hover{
+    text-decoration: underline;
+}
+
+
+.head{
+    padding: 10px;
+    background-color: plum;
+}
+
+
